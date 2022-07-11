@@ -1,0 +1,1 @@
+[31-Mar-2022 05:08:43 America/Boise] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/youngll4/public_html/mgsonsys/auth_admin.php on line 2

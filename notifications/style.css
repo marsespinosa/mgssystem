@@ -1,0 +1,8 @@
+#dashboard-wrapper .col-sm-8 h2{float:none;}
+.helpbtm{text-align:center;}
+.helpbtm a{color:#202020}
+a.btn-dashboard{
+    font-size: 20px;
+    height: 80px;
+}
+

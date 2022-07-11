@@ -1,0 +1,50 @@
+[31-Mar-2022 09:31:04 America/Boise] PHP Parse error:  Unclosed '{' on line 63 in /home2/youngll4/public_html/mgsonsys/notifications/viewnotif.php on line 88
+[27-Apr-2022 05:38:56 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[27-Apr-2022 05:38:56 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[27-Apr-2022 05:38:59 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[27-Apr-2022 05:38:59 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[03-May-2022 19:11:25 America/Boise] PHP Parse error:  Unclosed '{' on line 63 in /home2/youngll4/public_html/mgsonsys/notifications/viewnotif.php on line 88
+[19-May-2022 04:01:05 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[19-May-2022 04:01:05 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[19-May-2022 04:01:10 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[19-May-2022 04:01:10 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[19-May-2022 04:01:19 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[19-May-2022 04:01:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[19-May-2022 04:54:59 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[19-May-2022 04:54:59 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[29-May-2022 05:31:47 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[29-May-2022 05:31:47 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6
+[22-Jun-2022 10:34:02 America/Boise] PHP Warning:  Undefined array key "id_conts" in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 4
+[22-Jun-2022 10:34:02 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/youngll4/public_html/mgsonsys/notifications/delete.php:6
+Stack trace:
+#0 /home2/youngll4/public_html/mgsonsys/notifications/delete.php(6): mysqli_query(Object(mysqli), 'DELETE FROM con...')
+#1 {main}
+  thrown in /home2/youngll4/public_html/mgsonsys/notifications/delete.php on line 6

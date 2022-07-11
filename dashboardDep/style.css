@@ -1,0 +1,284 @@
+#contact-form{
+	float:none;
+	margin-top:30px;
+}
+
+
+.btn-primary{
+	color:#fff !important;
+
+}
+
+
+.helpbtm{text-align:center;}
+.helpbtm a{/*color:#202020*/ color: #f16d95;}
+
+.withicons li:first-child{
+	background: transparent url(images/productsicon.png)no-repeat top left;
+}
+.withicons li a{
+	padding-left: 35px;
+	text-align:center;
+}
+
+.withicons li:nth-child(2){
+	background: transparent url(images/carticon.png)no-repeat top left;
+}
+
+.withicons li:last-child{
+	background: transparent url(images/list.png)no-repeat top left;
+}
+
+.logoh1 {
+	margin-top: 8px;
+
+}
+
+.logoh1 a{
+	color:#000000;
+	font-size:30px;
+	padding-left: 20px;
+}
+
+.floatleftsearch{
+	float:left !important;}
+
+
+.floatleftsearch input{
+	margin-top: 0;
+	margin-bottom: 0;
+    height: 45px;
+}
+
+.clientavatar{
+	padding-left: 20%;
+	padding-top: 10%;
+}
+
+#dashboard-wrapper .col-sm-8 h2{
+
+	float:none !important;
+}
+
+.myproducts li{
+	list-style:none;
+	float:left;
+	margin: 8px;
+}
+
+.myproducts li a{
+	font-size:16px;
+}
+
+.bottom-data-profile{ margin-top:30px; float:none; width:100%; overflow:hidden;}
+.myteam{
+	width:30%;
+	float:left;
+	height:250px;
+	text-align:center;
+	background:#f3f7f6;
+	margin-right:20px;
+	padding:30px;
+}
+
+.myteam img{
+	display:block;
+	vertical-align:middle;
+	text-align:center;
+	margin: 0 auto;
+	padding-top:30px;
+}
+
+.welcomemessage{
+	float:right;
+	width:68%;
+	background:#f3f7f6;
+	height:250px;
+	text-align:center;
+	padding:30px;
+}
+
+.data-my-product{
+	border-bottom:2px solid #c9d3d3;
+	padding-bottom:30px;
+}
+
+footer{
+	color:#616161;
+	padding-top:10px;
+}
+
+.myproducts{
+	width:80%;
+	margin:0 auto;
+	overflow:hidden;
+}
+.myproducts li a{
+	color:#000 !important;
+}
+/*.bell-icons{
+	position: absolute;
+    left: 83%;
+    top: 1.5em;
+}*/
+.bell-icons{
+	position: relative;
+    top: 0 !important;
+}
+
+.bell-icons li{
+	float:left;
+	list-style:none;
+	padding: 5px;
+	font-size: 25px;
+}
+.bell-icons a {
+	color: black;
+}
+.bell-icons li:first-child a:before{
+	/*content:url('images/bellicon.png');*/
+	content: "\f0a2";
+	padding:5px;
+
+}
+.bell-icons li:nth-child(2) a:before{
+	/*content:url('images/message-icon.png');*/
+	content: "\f0e5";
+	padding:5px;
+}
+
+.bell-icons li:last-child a:before{
+	/*content:url('images/client-icon.png');*/
+	content: "\f2c0";
+	padding:5px;
+
+}
+
+.placeorder{
+	position:relative;
+	left: 85%;
+}
+.placeorder .btn-info{
+	background:#f16d95;
+	border-color:#f16d95;
+	color:#fff;
+}
+
+.placeorder .btn-info a, .placeorder .btn-primary:hover, .placeorder .btn, .placeorder .btn:focus{
+	color:#fff !important;
+	padding:10px 30px;
+}
+
+.info-order{margin-bottom:30px;}
+.placeordered input, .placeordered select{width:100%;}
+.floatrightbtn{margin-top: -5%;
+    font-size: 20px;
+    background: #f16d95 !important;
+    float: right;
+    color: #fff !important;
+    padding: 15px 30px;
+    border: 0 none;
+    position: relative;}
+.checkbtn .form-check-input{
+	width:5%; height:10px;;
+}
+
+.checkbtn .form-check-label{
+	line-height: 40px;
+	padding-left: 15px;
+}
+.profile {
+	width: 15% !important;
+	padding-left: 0% !important;
+	padding-top: 0% !important;
+}
+.myprofile {
+	text-align: center !important;
+}
+.ctmform {
+	width: 80%;
+	display: inline-block;
+}
+.btn-myprofile {
+	width: 100% !important;
+	margin: 10px;
+	color: #000 !important;
+	background: #eee !important;
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+}
+.save {
+	width: 15% !important;
+    margin: 10px;
+    padding: 5px 10px;
+    color: white !important;
+    background: #f16d95 !important;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    position: relative;
+    float: right;
+    left: 20px;
+}
+.profilename {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+::placeholder {
+	color: black !important;
+}
+.settings > a:hover {
+	background: #bea8d7 !important;
+	color: #eee !important;
+}
+.ctm {
+	pointer-events: none;
+}
+.ctm2 {
+	text-align: center;
+	padding: 5px;
+}
+.logout {
+	background: #f16d95;
+	text-align: center;
+	padding: 5px;
+}
+.bell-icons li:last-child .ctm2:before {
+	content: none !important;
+}
+.bell-icons li:last-child .logout:before {
+	/*content: url('images/logout.png');*/
+	content: none;
+}
+@media only screen and (max-width: 590px) {
+	.row {
+		display: block;
+	}
+	.login-wrapper .col-md-4 {
+		max-width: 100% !important;
+		padding: 20px;
+	}
+	.link-copyright {
+		text-align: center;
+	}
+	.bell-icons {
+		left: -8%;
+		top: 0.5em;
+		position: relative;
+		float: right;
+	}
+	.myteam {
+		width: 100%;
+	}
+	.welcomemessage {
+		width: 100%;
+		height: auto;
+	}
+	.welcomemessage > img {
+		width: 100%;
+	}
+	#dashboard-wrapper .col-sm-4 {
+		position: relative;
+	}
+}
